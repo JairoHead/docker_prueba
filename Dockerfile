@@ -10,3 +10,4 @@ EXPOSE 80
 # Comando por defecto para iniciar Nginx
 CMD ["nginx", "-g", "daemon off;"]
 #jairo gamarra
+#prueba2
